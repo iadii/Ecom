@@ -1,5 +1,6 @@
 import { createContext, useContext, useReducer, useEffect } from 'react'
 import sampleSubscribers from '../data/sample-subscribers.json'
+import apiService from '../services/apiService'
 
 const EmailContext = createContext()
 
@@ -131,15 +132,42 @@ const initialState = {
 export const EmailProvider = ({ children }) => {
   const [state, dispatch] = useReducer(emailReducer, initialState)
   
-  // Load email data from localStorage on mount
+  // Load email data on mount and initialize backend connection
   useEffect(() => {
-    const savedEmailData = localStorage.getItem('poshak-email-data')
-    if (savedEmailData) {
-      dispatch({ type: 'LOAD_EMAIL_DATA', payload: JSON.parse(savedEmailData) })
-    } else {
-      // Load sample data for demonstration
-      dispatch({ type: 'LOAD_EMAIL_DATA', payload: { subscribers: sampleSubscribers } })
+    const initializeData = async () => {
+      try {
+        // Check if backend is available and initialize email service
+        await apiService.initializeEmailService()
+        
+        // Load campaigns from backend
+        const campaigns = await apiService.getCampaigns()
+        
+        // Load subscribers from backend  
+        const subscribersData = await apiService.getSubscribers()
+        const subscribers = subscribersData.subscribers || []
+        
+        dispatch({ 
+          type: 'LOAD_EMAIL_DATA', 
+          payload: { 
+            campaigns: campaigns || [],
+            subscribers: subscribers.length > 0 ? subscribers : sampleSubscribers
+          } 
+        })
+      } catch (error) {
+        console.warn('Backend not available, using localStorage fallback:', error)
+        
+        // Fallback to localStorage if backend is not available
+        const savedEmailData = localStorage.getItem('poshak-email-data')
+        if (savedEmailData) {
+          dispatch({ type: 'LOAD_EMAIL_DATA', payload: JSON.parse(savedEmailData) })
+        } else {
+          // Load sample data for demonstration
+          dispatch({ type: 'LOAD_EMAIL_DATA', payload: { subscribers: sampleSubscribers } })
+        }
+      }
     }
+    
+    initializeData()
   }, [])
   
   // Save email data to localStorage whenever it changes
@@ -147,12 +175,37 @@ export const EmailProvider = ({ children }) => {
     localStorage.setItem('poshak-email-data', JSON.stringify(state))
   }, [state])
   
-  const setSmtpConfig = (config) => {
-    dispatch({ type: 'SET_SMTP_CONFIG', payload: config })
+  const setSmtpConfig = async (config) => {
+    try {
+      // Configure backend email service
+      const result = await apiService.configureEmailService(config)
+      if (result.success) {
+        dispatch({ type: 'SET_SMTP_CONFIG', payload: config })
+        return result
+      } else {
+        throw new Error(result.message || 'Configuration failed')
+      }
+    } catch (error) {
+      console.error('SMTP configuration failed:', error)
+      // Fallback to local storage
+      dispatch({ type: 'SET_SMTP_CONFIG', payload: config })
+      throw error
+    }
   }
   
-  const addSubscriber = (subscriber) => {
-    dispatch({ type: 'ADD_SUBSCRIBER', payload: subscriber })
+  const addSubscriber = async (subscriber) => {
+    try {
+      const result = await apiService.createSubscriber(subscriber)
+      if (result.success) {
+        dispatch({ type: 'ADD_SUBSCRIBER', payload: result.subscriber })
+        return result.subscriber
+      }
+    } catch (error) {
+      console.error('Add subscriber failed:', error)
+      // Fallback to local state
+      dispatch({ type: 'ADD_SUBSCRIBER', payload: subscriber })
+      throw error
+    }
   }
   
   const removeSubscriber = (subscriberId) => {
@@ -163,8 +216,19 @@ export const EmailProvider = ({ children }) => {
     dispatch({ type: 'UPDATE_SUBSCRIBER', payload: { id: subscriberId, updates } })
   }
   
-  const addCampaign = (campaign) => {
-    dispatch({ type: 'ADD_CAMPAIGN', payload: campaign })
+  const addCampaign = async (campaign) => {
+    try {
+      const result = await apiService.createCampaign(campaign)
+      if (result.success) {
+        dispatch({ type: 'ADD_CAMPAIGN', payload: result.campaign })
+        return result.campaign
+      }
+    } catch (error) {
+      console.error('Add campaign failed:', error)
+      // Fallback to local state
+      dispatch({ type: 'ADD_CAMPAIGN', payload: campaign })
+      throw error
+    }
   }
   
   const updateCampaign = (campaignId, updates) => {
@@ -197,37 +261,88 @@ export const EmailProvider = ({ children }) => {
     )
   }
   
-  // Mock email sending function (in real app, this would call backend API)
+  // Real email sending function using backend API
   const sendBulkEmail = async (campaignId, recipients, template) => {
-    const campaign = state.campaigns.find(c => c.id === campaignId)
-    if (!campaign) throw new Error('Campaign not found')
-    
-    // Simulate sending process
-    updateCampaign(campaignId, { 
-      status: 'sending',
-      sentAt: new Date().toISOString(),
-      totalRecipients: recipients.length
-    })
-    
-    // Simulate async sending with progress
-    for (let i = 0; i < recipients.length; i += 10) {
-      await new Promise(resolve => setTimeout(resolve, 100))
-      const sent = Math.min(i + 10, recipients.length)
-      updateCampaign(campaignId, {
-        sentCount: sent,
-        progress: Math.round((sent / recipients.length) * 100)
+    try {
+      const result = await apiService.sendBulkEmail({
+        campaignId,
+        recipientIds: recipients.map(r => r.id),
+        segments: [] // Can be extended for segment-based sending
       })
+      
+      if (result.success) {
+        // Update campaign status
+        updateCampaign(campaignId, { 
+          status: 'sending',
+          startedAt: new Date().toISOString()
+        })
+        
+        return {
+          success: true,
+          message: result.message,
+          campaignId: result.campaignId,
+          recipientCount: result.recipientCount
+        }
+      }
+      
+      throw new Error(result.error || 'Bulk email failed')
+    } catch (error) {
+      console.error('Bulk email sending failed:', error)
+      throw error
     }
-    
-    // Mark as completed
-    updateCampaign(campaignId, {
-      status: 'sent',
-      completedAt: new Date().toISOString(),
-      sentCount: recipients.length,
-      progress: 100
-    })
-    
-    return { success: true, sent: recipients.length }
+  }
+  
+  // Test email connection
+  const testEmailConnection = async () => {
+    try {
+      return await apiService.testEmailConnection()
+    } catch (error) {
+      console.error('Email connection test failed:', error)
+      throw error
+    }
+  }
+  
+  // Send test email
+  const sendTestEmail = async (emailData) => {
+    try {
+      return await apiService.sendTestEmail(emailData)
+    } catch (error) {
+      console.error('Test email failed:', error)
+      throw error
+    }
+  }
+  
+  // Get campaign status with real-time updates
+  const getCampaignStatus = async (campaignId) => {
+    try {
+      const status = await apiService.getCampaignStatus(campaignId)
+      // Update local state with fresh data
+      updateCampaign(campaignId, status)
+      return status
+    } catch (error) {
+      console.error('Get campaign status failed:', error)
+      throw error
+    }
+  }
+  
+  // Import subscribers from CSV
+  const importSubscribers = async (csvFile) => {
+    try {
+      const result = await apiService.importSubscribers(csvFile)
+      // Refresh subscribers list
+      const subscribersData = await apiService.getSubscribers()
+      dispatch({ 
+        type: 'LOAD_EMAIL_DATA', 
+        payload: { 
+          ...state,
+          subscribers: subscribersData.subscribers || []
+        }
+      })
+      return result
+    } catch (error) {
+      console.error('Import subscribers failed:', error)
+      throw error
+    }
   }
   
   return (
@@ -245,7 +360,11 @@ export const EmailProvider = ({ children }) => {
       deleteEmailTemplate,
       getActiveSubscribers,
       getSubscribersBySegment,
-      sendBulkEmail
+      sendBulkEmail,
+      testEmailConnection,
+      sendTestEmail,
+      getCampaignStatus,
+      importSubscribers
     }}>
       {children}
     </EmailContext.Provider>
