@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Priya Sharma",
+    "email": "priya.sharma@gmail.com",
+    "segment": "customers",
+    "status": "active",
+    "subscribedAt": "2024-01-15T10:30:00Z",
+    "tags": ["customer", "premium"]
+  },
+  {
+    "id": "2",
+    "name": "Anjali Patel",
+    "email": "anjali.patel@yahoo.com",
+    "segment": "prospects",
+    "status": "active",
+    "subscribedAt": "2024-02-20T14:15:00Z",
+    "tags": ["prospect", "interested"]
+  },
+  {
+    "id": "3",
+    "name": "Kavita Singh",
+    "email": "kavita.singh@outlook.com",
+    "segment": "newsletter",
+    "status": "active",
+    "subscribedAt": "2024-03-10T09:45:00Z",
+    "tags": ["newsletter", "casual-wear"]
+  },
+  {
+    "id": "4",
+    "name": "Rashmi Verma",
+    "email": "rashmi.verma@gmail.com",
+    "segment": "customers",
+    "status": "active",
+    "subscribedAt": "2024-01-25T16:20:00Z",
+    "tags": ["customer", "festive-wear"]
+  },
+  {
+    "id": "5",
+    "name": "Sunita Rao",
+    "email": "sunita.rao@hotmail.com",
+    "segment": "prospects",
+    "status": "inactive",
+    "subscribedAt": "2024-02-05T11:30:00Z",
+    "tags": ["prospect", "unengaged"]
+  },
+  {
+    "id": "6",
+    "name": "Meera Joshi",
+    "email": "meera.joshi@gmail.com",
+    "segment": "newsletter",
+    "status": "active",
+    "subscribedAt": "2024-03-15T13:10:00Z",
+    "tags": ["newsletter", "traditional-wear"]
+  },
+  {
+    "id": "7",
+    "name": "Deepika Agarwal",
+    "email": "deepika.agarwal@yahoo.com",
+    "segment": "customers",
+    "status": "active",
+    "subscribedAt": "2024-01-30T08:45:00Z",
+    "tags": ["customer", "repeat-buyer"]
+  },
+  {
+    "id": "8",
+    "name": "Neha Gupta",
+    "email": "neha.gupta@gmail.com",
+    "segment": "prospects",
+    "status": "active",
+    "subscribedAt": "2024-02-18T15:30:00Z",
+    "tags": ["prospect", "wedding-season"]
+  }
+]

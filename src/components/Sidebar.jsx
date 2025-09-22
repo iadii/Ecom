@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import categories from '../data/categories.json'
 
 export default function Sidebar({ isOpen, onClose }) {
-  const [openSections, setOpenSections] = useState({ sale: true, collections: true, categories: true, offers: false })
+  const [openSections, setOpenSections] = useState({ sale: true, collections: true, categories: true, business: false, offers: false })
   const toggle = (key) => setOpenSections(s => ({ ...s, [key]: !s[key] }))
 
   return (
@@ -39,6 +39,11 @@ export default function Sidebar({ isOpen, onClose }) {
               <li><Link to="/collections/gul" className="hover:text-[#6C1D57]">Kurtas</Link></li>
               <li><Link to="/collections/bahaar" className="hover:text-[#6C1D57]">Suits</Link></li>
               <li><Link to="/collections/monochrome" className="hover:text-[#6C1D57]">Dresses</Link></li>
+            </ul>
+          </Section>
+          <Section title="Business Tools" isOpen={openSections.business || false} onToggle={() => toggle('business')}>
+            <ul className="space-y-2">
+              <li><Link to="/email-marketing" className="hover:text-[#6C1D57] flex items-center"><span className="mr-2">📧</span>Email Marketing</Link></li>
             </ul>
           </Section>
           <Section title="Offers" isOpen={openSections.offers} onToggle={() => toggle('offers')}>

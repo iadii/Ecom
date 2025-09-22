@@ -1,4 +1,5 @@
 import { createContext, useContext, useReducer, useEffect } from 'react'
+import sampleSubscribers from '../data/sample-subscribers.json'
 
 const EmailContext = createContext()
 
@@ -135,6 +136,9 @@ export const EmailProvider = ({ children }) => {
     const savedEmailData = localStorage.getItem('poshak-email-data')
     if (savedEmailData) {
       dispatch({ type: 'LOAD_EMAIL_DATA', payload: JSON.parse(savedEmailData) })
+    } else {
+      // Load sample data for demonstration
+      dispatch({ type: 'LOAD_EMAIL_DATA', payload: { subscribers: sampleSubscribers } })
     }
   }, [])
   
