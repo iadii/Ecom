@@ -3,17 +3,17 @@
     "id": 1,
     "name": "Rust Printed Cotton A-Line Kurti",
     "images": [
-      "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
       "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
       "https://images.pexels.com/photos/794064/pexels-photo-794064.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-      "https://images.pexels.com/photos/1105191/pexels-photo-1105191.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+      "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
     ],
     "price": 2499,
     "discountedPrice": 999,
     "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
     "colors": [
-      {"name": "Rust", "value": "#B7410E", "image": "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
-      {"name": "Blue", "value": "#1E3A8A", "image": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+      {"name": "Rust", "value": "#B7410E", "image": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Blue", "value": "#1E3A8A", "image": "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
     ],
     "category": "gul",
     "tags": ["cotton", "floral", "kurti"],
@@ -33,16 +33,16 @@
     "id": 2,
     "name": "Pink Straight Cotton Suit",
     "images": [
-      "https://images.pexels.com/photos/1462637/pexels-photo-1462637.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-      "https://images.pexels.com/photos/1755385/pexels-photo-1755385.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-      "https://images.pexels.com/photos/1462638/pexels-photo-1462638.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+      "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/794064/pexels-photo-794064.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
     ],
     "price": 1999,
     "discountedPrice": 1299,
     "sizes": ["S", "M", "L", "XL"],
     "colors": [
-      {"name": "Pink", "value": "#EC4899", "image": "https://images.pexels.com/photos/1462637/pexels-photo-1462637.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
-      {"name": "Mint", "value": "#10B981", "image": "https://images.pexels.com/photos/1755385/pexels-photo-1755385.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+      {"name": "Pink", "value": "#EC4899", "image": "https://images.pexels.com/photos/6941358/pexels-photo-6941358.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Mint", "value": "#10B981", "image": "https://images.pexels.com/photos/7679720/pexels-photo-7679720.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
     ],
     "category": "bahaar",
     "tags": ["straight", "cotton", "ethnic"],
@@ -62,16 +62,16 @@
     "id": 3,
     "name": "Monochrome Printed Kurta Set",
     "images": [
-      "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-      "https://images.pexels.com/photos/1821095/pexels-photo-1821095.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1462638/pexels-photo-1462638.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1755385/pexels-photo-1755385.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
       "https://images.pexels.com/photos/1300550/pexels-photo-1300550.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
     ],
     "price": 2999,
     "discountedPrice": 1799,
     "sizes": ["M", "L", "XL"],
     "colors": [
-      {"name": "Black", "value": "#000000", "image": "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
-      {"name": "White", "value": "#FFFFFF", "image": "https://images.pexels.com/photos/1821095/pexels-photo-1821095.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+      {"name": "Black", "value": "#000000", "image": "https://images.pexels.com/photos/1462638/pexels-photo-1462638.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "White", "value": "#FFFFFF", "image": "https://images.pexels.com/photos/1755385/pexels-photo-1755385.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
     ],
     "category": "monochrome",
     "tags": ["kurta", "set", "monochrome"],
@@ -91,16 +91,16 @@
     "id": 4,
     "name": "Indigo Block-Print Cotton Dress",
     "images": [
-      "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-      "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-      "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+      "https://images.pexels.com/photos/794064/pexels-photo-794064.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1105191/pexels-photo-1105191.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
     ],
     "price": 2599,
     "discountedPrice": 1499,
     "sizes": ["XS", "S", "M", "L"],
     "colors": [
-      {"name": "Indigo", "value": "#4338CA", "image": "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
-      {"name": "Coral", "value": "#F97316", "image": "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+      {"name": "Indigo", "value": "#4338CA", "image": "https://images.pexels.com/photos/794064/pexels-photo-794064.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Coral", "value": "#F97316", "image": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
     ],
     "category": "gul",
     "tags": ["cotton", "indigo", "dress"],
@@ -120,15 +120,15 @@
     "id": 5,
     "name": "Emerald Green Silk Anarkali",
     "images": [
-      "https://images.pexels.com/photos/1755385/pexels-photo-1755385.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1462637/pexels-photo-1462637.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
       "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-      "https://images.pexels.com/photos/1462637/pexels-photo-1462637.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+      "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
     ],
     "price": 4999,
     "discountedPrice": 3499,
     "sizes": ["S", "M", "L", "XL", "XXL"],
     "colors": [
-      {"name": "Emerald", "value": "#059669", "image": "https://images.pexels.com/photos/1755385/pexels-photo-1755385.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Emerald", "value": "#059669", "image": "https://images.pexels.com/photos/1462637/pexels-photo-1462637.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
       {"name": "Royal Blue", "value": "#1E40AF", "image": "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
     ],
     "category": "festive",
@@ -149,16 +149,16 @@
     "id": 6,
     "name": "Maroon Velvet Lehenga Set",
     "images": [
-      "https://images.pexels.com/photos/1300550/pexels-photo-1300550.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-      "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-      "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+      "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/794064/pexels-photo-794064.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
     ],
     "price": 6999,
     "discountedPrice": 4999,
     "sizes": ["S", "M", "L", "XL"],
     "colors": [
-      {"name": "Maroon", "value": "#7F1D1D", "image": "https://images.pexels.com/photos/1300550/pexels-photo-1300550.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
-      {"name": "Navy", "value": "#1E3A8A", "image": "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+      {"name": "Maroon", "value": "#7F1D1D", "image": "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Navy", "value": "#1E3A8A", "image": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
     ],
     "category": "festive",
     "tags": ["velvet", "lehenga", "wedding", "embroidered"],
@@ -178,16 +178,16 @@
     "id": 7,
     "name": "Mustard Yellow Cotton Kurta",
     "images": [
-      "https://images.pexels.com/photos/1821095/pexels-photo-1821095.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-      "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1462638/pexels-photo-1462638.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
       "https://images.pexels.com/photos/794064/pexels-photo-794064.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
     ],
     "price": 1599,
     "discountedPrice": 899,
     "sizes": ["XS", "S", "M", "L", "XL"],
     "colors": [
-      {"name": "Mustard", "value": "#FBBF24", "image": "https://images.pexels.com/photos/1821095/pexels-photo-1821095.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
-      {"name": "Olive", "value": "#65A30D", "image": "https://images.pexels.com/photos/794064/pexels-photo-794064.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+      {"name": "Mustard", "value": "#FBBF24", "image": "https://images.pexels.com/photos/1462638/pexels-photo-1462638.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Olive", "value": "#65A30D", "image": "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
     ],
     "category": "bahaar",
     "tags": ["cotton", "casual", "kurta"],
@@ -207,18 +207,18 @@
     "id": 8,
     "name": "Teal Blue Georgette Sharara",
     "images": [
-      "https://images.pexels.com/photos/1462638/pexels-photo-1462638.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
       "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-      "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+      "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1105191/pexels-photo-1105191.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
     ],
     "price": 3999,
     "discountedPrice": 2499,
     "sizes": ["M", "L", "XL"],
     "colors": [
-      {"name": "Teal", "value": "#0F766E", "image": "https://images.pexels.com/photos/1462638/pexels-photo-1462638.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
-      {"name": "Purple", "value": "#7C3AED", "image": "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+      {"name": "Teal", "value": "#0F766E", "image": "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Purple", "value": "#7C3AED", "image": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
     ],
-    "category": "festive",
+    "category": "silkroad",
     "tags": ["georgette", "sharara", "ethnic"],
     "description": "Flowing teal blue georgette sharara set with delicate mirror work and gota detailing. Ideal for festive occasions.",
     "specifications": {
@@ -237,15 +237,15 @@
     "name": "Cream Chiffon Saree",
     "images": [
       "https://images.pexels.com/photos/1755385/pexels-photo-1755385.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-      "https://images.pexels.com/photos/1462637/pexels-photo-1462637.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-      "https://images.pexels.com/photos/1821095/pexels-photo-1821095.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+      "https://images.pexels.com/photos/1300550/pexels-photo-1300550.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1462637/pexels-photo-1462637.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
     ],
     "price": 3599,
     "discountedPrice": 2199,
     "sizes": ["Free Size"],
     "colors": [
       {"name": "Cream", "value": "#F7F3E9", "image": "https://images.pexels.com/photos/1755385/pexels-photo-1755385.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
-      {"name": "Peach", "value": "#FDBA74", "image": "https://images.pexels.com/photos/1462637/pexels-photo-1462637.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+      {"name": "Peach", "value": "#FDBA74", "image": "https://images.pexels.com/photos/1300550/pexels-photo-1300550.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
     ],
     "category": "festive",
     "tags": ["chiffon", "saree", "elegant"],
@@ -265,18 +265,18 @@
     "id": 10,
     "name": "Navy Blue Palazzo Set",
     "images": [
-      "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-      "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-      "https://images.pexels.com/photos/1300550/pexels-photo-1300550.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+      "https://images.pexels.com/photos/1462638/pexels-photo-1462638.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/5585136/pexels-photo-5585136.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/5585137/pexels-photo-5585137.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
     ],
     "price": 2299,
     "discountedPrice": 1499,
     "sizes": ["S", "M", "L", "XL"],
     "colors": [
-      {"name": "Navy", "value": "#1E3A8A", "image": "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
-      {"name": "Black", "value": "#000000", "image": "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+      {"name": "Navy", "value": "#1E3A8A", "image": "https://images.pexels.com/photos/1462638/pexels-photo-1462638.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Black", "value": "#000000", "image": "https://images.pexels.com/photos/5585136/pexels-photo-5585136.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
     ],
-    "category": "bahaar",
+    "category": "monochrome",
     "tags": ["palazzo", "casual", "comfortable"],
     "description": "Comfortable navy blue palazzo set with matching dupatta. Perfect for casual wear and everyday comfort.",
     "specifications": {
@@ -294,16 +294,16 @@
     "id": 11,
     "name": "Burgundy Silk Churidar",
     "images": [
-      "https://images.pexels.com/photos/1300550/pexels-photo-1300550.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-      "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-      "https://images.pexels.com/photos/1755385/pexels-photo-1755385.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+      "https://images.pexels.com/photos/9558560/pexels-photo-9558560.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/9558561/pexels-photo-9558561.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/9558562/pexels-photo-9558562.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
     ],
     "price": 3299,
     "discountedPrice": 2099,
     "sizes": ["S", "M", "L", "XL"],
     "colors": [
-      {"name": "Burgundy", "value": "#7F1D1D", "image": "https://images.pexels.com/photos/1300550/pexels-photo-1300550.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
-      {"name": "Wine", "value": "#991B1B", "image": "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+      {"name": "Burgundy", "value": "#7F1D1D", "image": "https://images.pexels.com/photos/9558560/pexels-photo-9558560.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Wine", "value": "#991B1B", "image": "https://images.pexels.com/photos/9558561/pexels-photo-9558561.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
     ],
     "category": "festive",
     "tags": ["silk", "churidar", "traditional"],
@@ -323,16 +323,16 @@
     "id": 12,
     "name": "White Cotton Angrakha",
     "images": [
-      "https://images.pexels.com/photos/1821095/pexels-photo-1821095.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-      "https://images.pexels.com/photos/1755385/pexels-photo-1755385.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-      "https://images.pexels.com/photos/1462637/pexels-photo-1462637.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+      "https://images.pexels.com/photos/6069493/pexels-photo-6069493.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/6069494/pexels-photo-6069494.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/6069495/pexels-photo-6069495.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
     ],
     "price": 1899,
     "discountedPrice": 1199,
     "sizes": ["XS", "S", "M", "L", "XL"],
     "colors": [
-      {"name": "White", "value": "#FFFFFF", "image": "https://images.pexels.com/photos/1821095/pexels-photo-1821095.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
-      {"name": "Off White", "value": "#F8FAFC", "image": "https://images.pexels.com/photos/1755385/pexels-photo-1755385.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+      {"name": "White", "value": "#FFFFFF", "image": "https://images.pexels.com/photos/6069493/pexels-photo-6069493.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Off White", "value": "#F8FAFC", "image": "https://images.pexels.com/photos/6069494/pexels-photo-6069494.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
     ],
     "category": "gul",
     "tags": ["cotton", "angrakha", "minimalist"],
@@ -347,5 +347,614 @@
     "rating": 4.3,
     "reviews": 158,
     "stock": 25
+  },
+  {
+    "id": 13,
+    "name": "Navy Blue Silk Churidar",
+    "images": [
+      "https://images.pexels.com/photos/1821095/pexels-photo-1821095.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 3299,
+    "discountedPrice": 2099,
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": [
+      {"name": "Navy", "value": "#1E3A8A", "image": "https://images.pexels.com/photos/1821095/pexels-photo-1821095.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Charcoal", "value": "#374151", "image": "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "silkroad",
+    "tags": ["silk", "churidar", "traditional"],
+    "description": "Classic navy blue silk churidar with traditional embroidery. Perfect for cultural events and formal occasions.",
+    "specifications": {
+      "fabric": "Pure Silk",
+      "care": "Dry clean only",
+      "fit": "Churidar",
+      "sleeve": "Full Sleeve",
+      "pattern": "Embroidered"
+    },
+    "rating": 4.6,
+    "reviews": 89,
+    "stock": 14
+  },
+  {
+    "id": 14,
+    "name": "Beige Cotton Essentials Kurti",
+    "images": [
+      "https://images.pexels.com/photos/2043590/pexels-photo-2043590.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/2932499/pexels-photo-2932499.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/3754208/pexels-photo-3754208.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 1299,
+    "discountedPrice": 799,
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "colors": [
+      {"name": "Beige", "value": "#F5F5DC", "image": "https://images.pexels.com/photos/2043590/pexels-photo-2043590.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Cream", "value": "#FFFDD0", "image": "https://images.pexels.com/photos/2932499/pexels-photo-2932499.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "essentials",
+    "tags": ["cotton", "basic", "kurti"],
+    "description": "Simple yet elegant beige cotton kurti. A wardrobe essential for everyday comfort and style.",
+    "specifications": {
+      "fabric": "100% Cotton",
+      "care": "Machine wash",
+      "fit": "Regular",
+      "sleeve": "3/4 Sleeve",
+      "pattern": "Solid"
+    },
+    "rating": 4.1,
+    "reviews": 156,
+    "stock": 35
+  },
+  {
+    "id": 15,
+    "name": "Casual Denim Kurti",
+    "images": [
+      "https://images.pexels.com/photos/4210866/pexels-photo-4210866.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/4462782/pexels-photo-4462782.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/5119214/pexels-photo-5119214.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 1899,
+    "discountedPrice": 1299,
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": [
+      {"name": "Denim Blue", "value": "#1E40AF", "image": "https://images.pexels.com/photos/4210866/pexels-photo-4210866.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Light Blue", "value": "#60A5FA", "image": "https://images.pexels.com/photos/4462782/pexels-photo-4462782.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "casual",
+    "tags": ["denim", "casual", "kurti"],
+    "description": "Trendy denim kurti with modern styling. Perfect for casual outings and weekend wear.",
+    "specifications": {
+      "fabric": "Denim",
+      "care": "Machine wash cold",
+      "fit": "Regular",
+      "sleeve": "Short Sleeve",
+      "pattern": "Solid"
+    },
+    "rating": 4.3,
+    "reviews": 94,
+    "stock": 18
+  },
+  {
+    "id": 16,
+    "name": "Black Formal Blazer Set",
+    "images": [
+      "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1821095/pexels-photo-1821095.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 4599,
+    "discountedPrice": 2999,
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": [
+      {"name": "Black", "value": "#000000", "image": "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Charcoal", "value": "#374151", "image": "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "formal",
+    "tags": ["blazer", "formal", "professional"],
+    "description": "Professional black blazer set perfect for office wear and formal meetings. Tailored for a sophisticated look.",
+    "specifications": {
+      "fabric": "Polyester Blend",
+      "care": "Dry clean only",
+      "fit": "Tailored",
+      "sleeve": "Full Sleeve",
+      "pattern": "Solid"
+    },
+    "rating": 4.7,
+    "reviews": 123,
+    "stock": 12
+  },
+  {
+    "id": 17,
+    "name": "Light Yellow Summer Dress",
+    "images": [
+      "https://images.pexels.com/photos/3754208/pexels-photo-3754208.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/2043590/pexels-photo-2043590.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/2932499/pexels-photo-2932499.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 2199,
+    "discountedPrice": 1399,
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": [
+      {"name": "Light Yellow", "value": "#FEF3C7", "image": "https://images.pexels.com/photos/3754208/pexels-photo-3754208.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Peach", "value": "#FDBA74", "image": "https://images.pexels.com/photos/2043590/pexels-photo-2043590.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "summer",
+    "tags": ["summer", "light", "dress"],
+    "description": "Breezy light yellow summer dress perfect for hot weather. Made with breathable fabric for all-day comfort.",
+    "specifications": {
+      "fabric": "Cotton Voile",
+      "care": "Machine wash cold",
+      "fit": "Flowy",
+      "sleeve": "Sleeveless",
+      "pattern": "Solid"
+    },
+    "rating": 4.4,
+    "reviews": 78,
+    "stock": 24
+  },
+  {
+    "id": 18,
+    "name": "Warm Wool Shawl Kurti",
+    "images": [
+      "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1821095/pexels-photo-1821095.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 3599,
+    "discountedPrice": 2399,
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": [
+      {"name": "Burgundy", "value": "#7F1D1D", "image": "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Forest Green", "value": "#065F46", "image": "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "winter",
+    "tags": ["wool", "warm", "winter"],
+    "description": "Cozy wool kurti with matching shawl. Perfect for keeping warm during winter months while staying stylish.",
+    "specifications": {
+      "fabric": "Wool Blend",
+      "care": "Dry clean recommended",
+      "fit": "Regular",
+      "sleeve": "Full Sleeve",
+      "pattern": "Textured"
+    },
+    "rating": 4.8,
+    "reviews": 102,
+    "stock": 16
+  },
+  {
+    "id": 13,
+    "name": "Navy Blue Silk Churidar",
+    "images": [
+      "https://images.pexels.com/photos/1821095/pexels-photo-1821095.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 3299,
+    "discountedPrice": 2099,
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": [
+      {"name": "Navy", "value": "#1E3A8A", "image": "https://images.pexels.com/photos/1821095/pexels-photo-1821095.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Charcoal", "value": "#374151", "image": "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "silkroad",
+    "tags": ["silk", "churidar", "traditional"],
+    "description": "Classic navy blue silk churidar with traditional embroidery. Perfect for cultural events and formal occasions.",
+    "specifications": {
+      "fabric": "Pure Silk",
+      "care": "Dry clean only",
+      "fit": "Churidar",
+      "sleeve": "Full Sleeve",
+      "pattern": "Embroidered"
+    },
+    "rating": 4.6,
+    "reviews": 89,
+    "stock": 14
+  },
+  {
+    "id": 14,
+    "name": "Beige Cotton Essentials Kurti",
+    "images": [
+      "https://images.pexels.com/photos/2043590/pexels-photo-2043590.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/2932499/pexels-photo-2932499.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/3754208/pexels-photo-3754208.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 1299,
+    "discountedPrice": 799,
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "colors": [
+      {"name": "Beige", "value": "#F5F5DC", "image": "https://images.pexels.com/photos/2043590/pexels-photo-2043590.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Cream", "value": "#FFFDD0", "image": "https://images.pexels.com/photos/2932499/pexels-photo-2932499.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "essentials",
+    "tags": ["cotton", "basic", "kurti"],
+    "description": "Simple yet elegant beige cotton kurti. A wardrobe essential for everyday comfort and style.",
+    "specifications": {
+      "fabric": "100% Cotton",
+      "care": "Machine wash",
+      "fit": "Regular",
+      "sleeve": "3/4 Sleeve",
+      "pattern": "Solid"
+    },
+    "rating": 4.1,
+    "reviews": 156,
+    "stock": 35
+  },
+  {
+    "id": 15,
+    "name": "Casual Denim Kurti",
+    "images": [
+      "https://images.pexels.com/photos/4210866/pexels-photo-4210866.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/4462782/pexels-photo-4462782.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/5119214/pexels-photo-5119214.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 1899,
+    "discountedPrice": 1299,
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": [
+      {"name": "Denim Blue", "value": "#1E40AF", "image": "https://images.pexels.com/photos/4210866/pexels-photo-4210866.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Light Blue", "value": "#60A5FA", "image": "https://images.pexels.com/photos/4462782/pexels-photo-4462782.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "casual",
+    "tags": ["denim", "casual", "kurti"],
+    "description": "Trendy denim kurti with modern styling. Perfect for casual outings and weekend wear.",
+    "specifications": {
+      "fabric": "Denim",
+      "care": "Machine wash cold",
+      "fit": "Regular",
+      "sleeve": "Short Sleeve",
+      "pattern": "Solid"
+    },
+    "rating": 4.3,
+    "reviews": 94,
+    "stock": 18
+  },
+  {
+    "id": 16,
+    "name": "Black Formal Blazer Set",
+    "images": [
+      "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1821095/pexels-photo-1821095.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 4599,
+    "discountedPrice": 2999,
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": [
+      {"name": "Black", "value": "#000000", "image": "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Charcoal", "value": "#374151", "image": "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "formal",
+    "tags": ["blazer", "formal", "professional"],
+    "description": "Professional black blazer set perfect for office wear and formal meetings. Tailored for a sophisticated look.",
+    "specifications": {
+      "fabric": "Polyester Blend",
+      "care": "Dry clean only",
+      "fit": "Tailored",
+      "sleeve": "Full Sleeve",
+      "pattern": "Solid"
+    },
+    "rating": 4.7,
+    "reviews": 123,
+    "stock": 12
+  },
+  {
+    "id": 17,
+    "name": "Light Yellow Summer Dress",
+    "images": [
+      "https://images.pexels.com/photos/3754208/pexels-photo-3754208.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/2043590/pexels-photo-2043590.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/2932499/pexels-photo-2932499.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 2199,
+    "discountedPrice": 1399,
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": [
+      {"name": "Light Yellow", "value": "#FEF3C7", "image": "https://images.pexels.com/photos/3754208/pexels-photo-3754208.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Peach", "value": "#FDBA74", "image": "https://images.pexels.com/photos/2043590/pexels-photo-2043590.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "summer",
+    "tags": ["summer", "light", "dress"],
+    "description": "Breezy light yellow summer dress perfect for hot weather. Made with breathable fabric for all-day comfort.",
+    "specifications": {
+      "fabric": "Cotton Voile",
+      "care": "Machine wash cold",
+      "fit": "Flowy",
+      "sleeve": "Sleeveless",
+      "pattern": "Solid"
+    },
+    "rating": 4.4,
+    "reviews": 78,
+    "stock": 24
+  },
+  {
+    "id": 18,
+    "name": "Warm Wool Shawl Kurti",
+    "images": [
+      "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1821095/pexels-photo-1821095.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 3599,
+    "discountedPrice": 2399,
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": [
+      {"name": "Burgundy", "value": "#7F1D1D", "image": "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Forest Green", "value": "#065F46", "image": "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "winter",
+    "tags": ["wool", "warm", "winter"],
+    "description": "Cozy wool kurti with matching shawl. Perfect for keeping warm during winter months while staying stylish.",
+    "specifications": {
+      "fabric": "Wool Blend",
+      "care": "Dry clean recommended",
+      "fit": "Regular",
+      "sleeve": "Full Sleeve",
+      "pattern": "Textured"
+    },
+    "rating": 4.8,
+    "reviews": 102,
+    "stock": 16
+  },
+  {
+    "id": 19,
+    "name": "Rose Pink Gul Collection Kurti",
+    "images": [
+      "https://images.pexels.com/photos/3754208/pexels-photo-3754208.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/2932499/pexels-photo-2932499.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/2043590/pexels-photo-2043590.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 1899,
+    "discountedPrice": 1199,
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "colors": [
+      {"name": "Rose Pink", "value": "#F472B6", "image": "https://images.pexels.com/photos/3754208/pexels-photo-3754208.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Soft Pink", "value": "#FBCFE8", "image": "https://images.pexels.com/photos/2932499/pexels-photo-2932499.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "gul",
+    "tags": ["cotton", "floral", "gul"],
+    "description": "Beautiful rose pink kurti from our signature Gul collection with floral embroidery and comfortable fit.",
+    "specifications": {
+      "fabric": "Cotton",
+      "care": "Machine wash",
+      "fit": "A-line",
+      "sleeve": "3/4 Sleeve",
+      "pattern": "Embroidered"
+    },
+    "rating": 4.5,
+    "reviews": 87,
+    "stock": 20
+  },
+  {
+    "id": 20,
+    "name": "Lavender Bahaar Palazzo Set",
+    "images": [
+      "https://images.pexels.com/photos/4462782/pexels-photo-4462782.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/5119214/pexels-photo-5119214.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/4210866/pexels-photo-4210866.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 2599,
+    "discountedPrice": 1699,
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": [
+      {"name": "Lavender", "value": "#C4B5FD", "image": "https://images.pexels.com/photos/4462782/pexels-photo-4462782.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Mint", "value": "#6EE7B7", "image": "https://images.pexels.com/photos/5119214/pexels-photo-5119214.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "bahaar",
+    "tags": ["palazzo", "set", "bahaar"],
+    "description": "Elegant lavender palazzo set from our Bahaar collection, perfect for spring and summer occasions.",
+    "specifications": {
+      "fabric": "Crepe",
+      "care": "Hand wash",
+      "fit": "Palazzo",
+      "sleeve": "Short Sleeve",
+      "pattern": "Solid"
+    },
+    "rating": 4.4,
+    "reviews": 95,
+    "stock": 18
+  },
+  {
+    "id": 21,
+    "name": "Grey Monochrome Striped Dress",
+    "images": [
+      "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/2043590/pexels-photo-2043590.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 2299,
+    "discountedPrice": 1499,
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": [
+      {"name": "Charcoal", "value": "#374151", "image": "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Light Grey", "value": "#D1D5DB", "image": "https://images.pexels.com/photos/2043590/pexels-photo-2043590.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "monochrome",
+    "tags": ["striped", "dress", "monochrome"],
+    "description": "Sophisticated grey striped dress from our Monochrome collection. Perfect for office and casual wear.",
+    "specifications": {
+      "fabric": "Cotton Blend",
+      "care": "Machine wash",
+      "fit": "A-line",
+      "sleeve": "Sleeveless",
+      "pattern": "Striped"
+    },
+    "rating": 4.6,
+    "reviews": 72,
+    "stock": 22
+  },
+  {
+    "id": 22,
+    "name": "Emerald Silk Road Saree",
+    "images": [
+      "https://images.pexels.com/photos/2932499/pexels-photo-2932499.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/3754208/pexels-photo-3754208.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 4999,
+    "discountedPrice": 3299,
+    "sizes": ["Free Size"],
+    "colors": [
+      {"name": "Emerald", "value": "#059669", "image": "https://images.pexels.com/photos/2932499/pexels-photo-2932499.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Coral", "value": "#F97316", "image": "https://images.pexels.com/photos/3754208/pexels-photo-3754208.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "silkroad",
+    "tags": ["saree", "silk", "traditional"],
+    "description": "Exquisite emerald saree from our Silk Road collection with golden border and traditional motifs.",
+    "specifications": {
+      "fabric": "Pure Silk",
+      "care": "Dry clean only",
+      "fit": "Saree",
+      "sleeve": "Blouse Included",
+      "pattern": "Traditional Motifs"
+    },
+    "rating": 4.9,
+    "reviews": 134,
+    "stock": 8
+  },
+  {
+    "id": 23,
+    "name": "White Cotton Essentials Shirt",
+    "images": [
+      "https://images.pexels.com/photos/2043590/pexels-photo-2043590.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/4462782/pexels-photo-4462782.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/2932499/pexels-photo-2932499.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 999,
+    "discountedPrice": 699,
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "colors": [
+      {"name": "White", "value": "#FFFFFF", "image": "https://images.pexels.com/photos/2043590/pexels-photo-2043590.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Off White", "value": "#F8FAFC", "image": "https://images.pexels.com/photos/2932499/pexels-photo-2932499.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "essentials",
+    "tags": ["cotton", "basic", "shirt"],
+    "description": "Classic white cotton shirt from our Essentials collection. A wardrobe staple for everyday wear.",
+    "specifications": {
+      "fabric": "100% Cotton",
+      "care": "Machine wash",
+      "fit": "Regular",
+      "sleeve": "Full Sleeve",
+      "pattern": "Solid"
+    },
+    "rating": 4.2,
+    "reviews": 201,
+    "stock": 45
+  },
+  {
+    "id": 24,
+    "name": "Blue Casual Jeans",
+    "images": [
+      "https://images.pexels.com/photos/4210866/pexels-photo-4210866.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/4462782/pexels-photo-4462782.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/5119214/pexels-photo-5119214.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 1799,
+    "discountedPrice": 1299,
+    "sizes": ["28", "30", "32", "34", "36"],
+    "colors": [
+      {"name": "Blue", "value": "#1E40AF", "image": "https://images.pexels.com/photos/4210866/pexels-photo-4210866.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Dark Blue", "value": "#1E3A8A", "image": "https://images.pexels.com/photos/4462782/pexels-photo-4462782.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "casual",
+    "tags": ["jeans", "denim", "casual"],
+    "description": "Classic blue jeans from our Casual collection. Perfect for everyday wear with comfortable fit.",
+    "specifications": {
+      "fabric": "Denim",
+      "care": "Machine wash",
+      "fit": "Slim Fit",
+      "sleeve": "N/A",
+      "pattern": "Solid"
+    },
+    "rating": 4.0,
+    "reviews": 167,
+    "stock": 30
+  },
+  {
+    "id": 25,
+    "name": "Formal Navy Blazer",
+    "images": [
+      "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1821095/pexels-photo-1821095.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 3999,
+    "discountedPrice": 2799,
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": [
+      {"name": "Navy", "value": "#1E3A8A", "image": "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Charcoal", "value": "#374151", "image": "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "formal",
+    "tags": ["blazer", "formal", "office"],
+    "description": "Professional navy blazer from our Formal collection. Perfect for business meetings and formal events.",
+    "specifications": {
+      "fabric": "Wool Blend",
+      "care": "Dry clean only",
+      "fit": "Tailored",
+      "sleeve": "Full Sleeve",
+      "pattern": "Solid"
+    },
+    "rating": 4.8,
+    "reviews": 89,
+    "stock": 15
+  },
+  {
+    "id": 26,
+    "name": "Coral Summer Top",
+    "images": [
+      "https://images.pexels.com/photos/3754208/pexels-photo-3754208.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/2043590/pexels-photo-2043590.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/2932499/pexels-photo-2932499.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 1499,
+    "discountedPrice": 999,
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": [
+      {"name": "Coral", "value": "#F97316", "image": "https://images.pexels.com/photos/3754208/pexels-photo-3754208.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Peach", "value": "#FDBA74", "image": "https://images.pexels.com/photos/2043590/pexels-photo-2043590.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "summer",
+    "tags": ["top", "summer", "sleeveless"],
+    "description": "Bright coral summer top from our Summer Breeze collection. Light and airy for hot weather.",
+    "specifications": {
+      "fabric": "Cotton Voile",
+      "care": "Machine wash cold",
+      "fit": "Regular",
+      "sleeve": "Sleeveless",
+      "pattern": "Solid"
+    },
+    "rating": 4.3,
+    "reviews": 56,
+    "stock": 28
+  },
+  {
+    "id": 27,
+    "name": "Burgundy Winter Coat",
+    "images": [
+      "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1821095/pexels-photo-1821095.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 4999,
+    "discountedPrice": 3499,
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": [
+      {"name": "Burgundy", "value": "#7F1D1D", "image": "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Black", "value": "#000000", "image": "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "winter",
+    "tags": ["coat", "winter", "warm"],
+    "description": "Elegant burgundy winter coat from our Winter Warmth collection. Stylish protection from cold weather.",
+    "specifications": {
+      "fabric": "Wool Blend",
+      "care": "Dry clean only",
+      "fit": "Regular",
+      "sleeve": "Full Sleeve",
+      "pattern": "Solid"
+    },
+    "rating": 4.7,
+    "reviews": 43,
+    "stock": 14
   }
 ]
