@@ -1,0 +1,351 @@
+[
+  {
+    "id": 1,
+    "name": "Rust Printed Cotton A-Line Kurti",
+    "images": [
+      "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/794064/pexels-photo-794064.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1105191/pexels-photo-1105191.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 2499,
+    "discountedPrice": 999,
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colors": [
+      {"name": "Rust", "value": "#B7410E", "image": "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Blue", "value": "#1E3A8A", "image": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "gul",
+    "tags": ["cotton", "floral", "kurti"],
+    "description": "A soft cotton A-line kurti with delicate floral prints, perfect for daily wear. Made from premium quality cotton fabric for comfort and style.",
+    "specifications": {
+      "fabric": "100% Cotton",
+      "care": "Machine wash cold",
+      "fit": "A-line",
+      "sleeve": "3/4 Sleeve",
+      "pattern": "Printed"
+    },
+    "rating": 4.5,
+    "reviews": 128,
+    "stock": 28
+  },
+  {
+    "id": 2,
+    "name": "Pink Straight Cotton Suit",
+    "images": [
+      "https://images.pexels.com/photos/1462637/pexels-photo-1462637.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1755385/pexels-photo-1755385.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1462638/pexels-photo-1462638.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 1999,
+    "discountedPrice": 1299,
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": [
+      {"name": "Pink", "value": "#EC4899", "image": "https://images.pexels.com/photos/1462637/pexels-photo-1462637.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Mint", "value": "#10B981", "image": "https://images.pexels.com/photos/1755385/pexels-photo-1755385.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "bahaar",
+    "tags": ["straight", "cotton", "ethnic"],
+    "description": "Elegant straight suit in breathable cotton with minimal embroidery. Perfect for both casual and formal occasions.",
+    "specifications": {
+      "fabric": "Cotton Blend",
+      "care": "Dry clean preferred",
+      "fit": "Straight",
+      "sleeve": "Full Sleeve",
+      "pattern": "Solid with Embroidery"
+    },
+    "rating": 4.2,
+    "reviews": 89,
+    "stock": 16
+  },
+  {
+    "id": 3,
+    "name": "Monochrome Printed Kurta Set",
+    "images": [
+      "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1821095/pexels-photo-1821095.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1300550/pexels-photo-1300550.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 2999,
+    "discountedPrice": 1799,
+    "sizes": ["M", "L", "XL"],
+    "colors": [
+      {"name": "Black", "value": "#000000", "image": "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "White", "value": "#FFFFFF", "image": "https://images.pexels.com/photos/1821095/pexels-photo-1821095.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "monochrome",
+    "tags": ["kurta", "set", "monochrome"],
+    "description": "Chic monochrome kurta set with straight pants. A timeless piece that never goes out of style.",
+    "specifications": {
+      "fabric": "Rayon",
+      "care": "Hand wash recommended",
+      "fit": "Regular",
+      "sleeve": "3/4 Sleeve",
+      "pattern": "Printed"
+    },
+    "rating": 4.7,
+    "reviews": 156,
+    "stock": 9
+  },
+  {
+    "id": 4,
+    "name": "Indigo Block-Print Cotton Dress",
+    "images": [
+      "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 2599,
+    "discountedPrice": 1499,
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": [
+      {"name": "Indigo", "value": "#4338CA", "image": "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Coral", "value": "#F97316", "image": "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "gul",
+    "tags": ["cotton", "indigo", "dress"],
+    "description": "Flowy indigo dress with block prints and pockets. Handcrafted with traditional printing techniques.",
+    "specifications": {
+      "fabric": "100% Cotton",
+      "care": "Machine wash cold",
+      "fit": "A-line",
+      "sleeve": "Sleeveless",
+      "pattern": "Block Print"
+    },
+    "rating": 4.3,
+    "reviews": 74,
+    "stock": 0
+  },
+  {
+    "id": 5,
+    "name": "Emerald Green Silk Anarkali",
+    "images": [
+      "https://images.pexels.com/photos/1755385/pexels-photo-1755385.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1462637/pexels-photo-1462637.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 4999,
+    "discountedPrice": 3499,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "colors": [
+      {"name": "Emerald", "value": "#059669", "image": "https://images.pexels.com/photos/1755385/pexels-photo-1755385.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Royal Blue", "value": "#1E40AF", "image": "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "festive",
+    "tags": ["silk", "anarkali", "festive", "embroidered"],
+    "description": "Stunning emerald green silk anarkali with golden embroidery, perfect for special occasions. Crafted with premium silk fabric.",
+    "specifications": {
+      "fabric": "Pure Silk",
+      "care": "Dry clean only",
+      "fit": "Anarkali",
+      "sleeve": "Full Sleeve",
+      "pattern": "Embroidered"
+    },
+    "rating": 4.8,
+    "reviews": 203,
+    "stock": 12
+  },
+  {
+    "id": 6,
+    "name": "Maroon Velvet Lehenga Set",
+    "images": [
+      "https://images.pexels.com/photos/1300550/pexels-photo-1300550.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 6999,
+    "discountedPrice": 4999,
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": [
+      {"name": "Maroon", "value": "#7F1D1D", "image": "https://images.pexels.com/photos/1300550/pexels-photo-1300550.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Navy", "value": "#1E3A8A", "image": "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "festive",
+    "tags": ["velvet", "lehenga", "wedding", "embroidered"],
+    "description": "Luxurious maroon velvet lehenga with intricate gold embroidery and sequin work. Perfect for weddings and special celebrations.",
+    "specifications": {
+      "fabric": "Velvet with Silk Lining",
+      "care": "Dry clean only",
+      "fit": "Lehenga",
+      "sleeve": "3/4 Sleeve",
+      "pattern": "Heavy Embroidered"
+    },
+    "rating": 4.9,
+    "reviews": 87,
+    "stock": 6
+  },
+  {
+    "id": 7,
+    "name": "Mustard Yellow Cotton Kurta",
+    "images": [
+      "https://images.pexels.com/photos/1821095/pexels-photo-1821095.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/794064/pexels-photo-794064.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 1599,
+    "discountedPrice": 899,
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "colors": [
+      {"name": "Mustard", "value": "#FBBF24", "image": "https://images.pexels.com/photos/1821095/pexels-photo-1821095.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Olive", "value": "#65A30D", "image": "https://images.pexels.com/photos/794064/pexels-photo-794064.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "bahaar",
+    "tags": ["cotton", "casual", "kurta"],
+    "description": "Bright mustard yellow cotton kurta with modern cut and comfortable fit. Perfect for casual outings and everyday wear.",
+    "specifications": {
+      "fabric": "100% Cotton",
+      "care": "Machine wash",
+      "fit": "Straight",
+      "sleeve": "Short Sleeve",
+      "pattern": "Solid"
+    },
+    "rating": 4.1,
+    "reviews": 112,
+    "stock": 22
+  },
+  {
+    "id": 8,
+    "name": "Teal Blue Georgette Sharara",
+    "images": [
+      "https://images.pexels.com/photos/1462638/pexels-photo-1462638.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 3999,
+    "discountedPrice": 2499,
+    "sizes": ["M", "L", "XL"],
+    "colors": [
+      {"name": "Teal", "value": "#0F766E", "image": "https://images.pexels.com/photos/1462638/pexels-photo-1462638.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Purple", "value": "#7C3AED", "image": "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "festive",
+    "tags": ["georgette", "sharara", "ethnic"],
+    "description": "Flowing teal blue georgette sharara set with delicate mirror work and gota detailing. Ideal for festive occasions.",
+    "specifications": {
+      "fabric": "Georgette",
+      "care": "Dry clean recommended",
+      "fit": "Sharara",
+      "sleeve": "Full Sleeve",
+      "pattern": "Mirror Work"
+    },
+    "rating": 4.6,
+    "reviews": 67,
+    "stock": 11
+  },
+  {
+    "id": 9,
+    "name": "Cream Chiffon Saree",
+    "images": [
+      "https://images.pexels.com/photos/1755385/pexels-photo-1755385.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1462637/pexels-photo-1462637.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1821095/pexels-photo-1821095.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 3599,
+    "discountedPrice": 2199,
+    "sizes": ["Free Size"],
+    "colors": [
+      {"name": "Cream", "value": "#F7F3E9", "image": "https://images.pexels.com/photos/1755385/pexels-photo-1755385.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Peach", "value": "#FDBA74", "image": "https://images.pexels.com/photos/1462637/pexels-photo-1462637.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "festive",
+    "tags": ["chiffon", "saree", "elegant"],
+    "description": "Elegant cream chiffon saree with delicate pearl border and light embroidery. Perfect for formal events and celebrations.",
+    "specifications": {
+      "fabric": "Chiffon",
+      "care": "Dry clean only",
+      "fit": "Saree",
+      "sleeve": "Sleeveless Blouse",
+      "pattern": "Embroidered Border"
+    },
+    "rating": 4.4,
+    "reviews": 95,
+    "stock": 15
+  },
+  {
+    "id": 10,
+    "name": "Navy Blue Palazzo Set",
+    "images": [
+      "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1300550/pexels-photo-1300550.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 2299,
+    "discountedPrice": 1499,
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": [
+      {"name": "Navy", "value": "#1E3A8A", "image": "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Black", "value": "#000000", "image": "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "bahaar",
+    "tags": ["palazzo", "casual", "comfortable"],
+    "description": "Comfortable navy blue palazzo set with matching dupatta. Perfect for casual wear and everyday comfort.",
+    "specifications": {
+      "fabric": "Rayon",
+      "care": "Machine wash",
+      "fit": "Palazzo",
+      "sleeve": "3/4 Sleeve",
+      "pattern": "Solid"
+    },
+    "rating": 4.2,
+    "reviews": 134,
+    "stock": 19
+  },
+  {
+    "id": 11,
+    "name": "Burgundy Silk Churidar",
+    "images": [
+      "https://images.pexels.com/photos/1300550/pexels-photo-1300550.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1755385/pexels-photo-1755385.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 3299,
+    "discountedPrice": 2099,
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": [
+      {"name": "Burgundy", "value": "#7F1D1D", "image": "https://images.pexels.com/photos/1300550/pexels-photo-1300550.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Wine", "value": "#991B1B", "image": "https://images.pexels.com/photos/1462679/pexels-photo-1462679.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "festive",
+    "tags": ["silk", "churidar", "traditional"],
+    "description": "Rich burgundy silk churidar with intricate thread work and traditional styling. Perfect for cultural events.",
+    "specifications": {
+      "fabric": "Silk",
+      "care": "Dry clean only",
+      "fit": "Churidar",
+      "sleeve": "Full Sleeve",
+      "pattern": "Thread Work"
+    },
+    "rating": 4.7,
+    "reviews": 76,
+    "stock": 8
+  },
+  {
+    "id": 12,
+    "name": "White Cotton Angrakha",
+    "images": [
+      "https://images.pexels.com/photos/1821095/pexels-photo-1821095.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1755385/pexels-photo-1755385.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+      "https://images.pexels.com/photos/1462637/pexels-photo-1462637.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"
+    ],
+    "price": 1899,
+    "discountedPrice": 1199,
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "colors": [
+      {"name": "White", "value": "#FFFFFF", "image": "https://images.pexels.com/photos/1821095/pexels-photo-1821095.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"},
+      {"name": "Off White", "value": "#F8FAFC", "image": "https://images.pexels.com/photos/1755385/pexels-photo-1755385.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop"}
+    ],
+    "category": "gul",
+    "tags": ["cotton", "angrakha", "minimalist"],
+    "description": "Classic white cotton angrakha with clean lines and comfortable fit. A versatile piece for any wardrobe.",
+    "specifications": {
+      "fabric": "100% Cotton",
+      "care": "Machine wash",
+      "fit": "Angrakha",
+      "sleeve": "3/4 Sleeve",
+      "pattern": "Solid"
+    },
+    "rating": 4.3,
+    "reviews": 158,
+    "stock": 25
+  }
+]

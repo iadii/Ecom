@@ -1,0 +1,12 @@
+[
+  { "id": "gul", "name": "Gul", "image": "https://plus.unsplash.com/premium_photo-1729708586826-0f7d8d8357d3?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
+  { "id": "bahaar", "name": "Bahaar", "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?ixlib=rb-4.0.3&w=1200&h=400&fit=crop&crop=center" },
+  { "id": "monochrome", "name": "Monochrome", "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?ixlib=rb-4.0.3&w=1200&h=400&fit=crop&crop=center" },
+  { "id": "silkroad", "name": "Silk Road", "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&w=1200&h=400&fit=crop&crop=center" },
+  { "id": "festive", "name": "Festive", "image": "https://plus.unsplash.com/premium_photo-1669977749819-d8737b4408f7?q=80&w=1756&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
+  { "id": "essentials", "name": "Essentials", "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?ixlib=rb-4.0.3&w=1200&h=400&fit=crop&crop=center" },
+  { "id": "casual", "name": "Casual Wear", "image": "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?ixlib=rb-4.0.3&w=1200&h=400&fit=crop&crop=center" },
+  { "id": "formal", "name": "Formal Collection", "image": "https://images.pexels.com/photos/33987031/pexels-photo-33987031.jpeg" },
+  { "id": "summer", "name": "Summer Breeze", "image": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?ixlib=rb-4.0.3&w=1200&h=400&fit=crop&crop=center" },
+  { "id": "winter", "name": "Winter Warmth", "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?ixlib=rb-4.0.3&w=1200&h=400&fit=crop&crop=center" }
+]
