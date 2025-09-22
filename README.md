@@ -1,4 +1,3 @@
-# Poshak - Modern E-commerce Platform with Email Marketing
 
 <div align="center">
   <h3>🛍️ A comprehensive e-commerce solution with integrated email marketing capabilities</h3>
@@ -43,7 +42,7 @@ Poshak is a feature-rich e-commerce platform that combines modern shopping exper
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/iadii/Ecom.git
    cd Poshak
    ```
 
